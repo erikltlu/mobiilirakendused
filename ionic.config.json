@@ -1,5 +1,7 @@
 {
   "name": "ilmapp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

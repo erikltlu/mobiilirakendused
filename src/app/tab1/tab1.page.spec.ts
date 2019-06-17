@@ -24,3 +24,5 @@ describe('Tab1Page', () => {
     expect(component).toBeTruthy();
   });
 });
+
+// this.weather = weather.current_observaton;

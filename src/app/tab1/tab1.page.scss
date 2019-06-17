@@ -1,4 +1,29 @@
-.welcome-card ion-img {
-  max-height: 35vh;
-  overflow: hidden;
+.home{
+  margin-top: 30px;
+}
+
+ion-title{
+  text-align: center;
+}
+
+.temperature{
+  font-size: 90px;
+  text-align: center;
+  font-weight: normal;
+}
+
+.location,.icon,.desc{
+  text-align: center;
+}
+
+.icon img {
+  width: 100px;
+}
+
+.location {
+  font-size: 40px;
+}
+
+.desc {
+  font-size: 30px;
 }
